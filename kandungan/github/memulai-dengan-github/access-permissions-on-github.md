@@ -24,8 +24,8 @@ Organization members can have *owner*{% if currentVersion == "free-pro-team@late
 - "[Repository permission levels for an organization](/articles/repository-permission-levels-for-an-organization)"
 - "[About teams](/articles/about-teams)"
 
-{% if currentVersion == "free-pro-team@latest" %}
-
+{% if currentVersion == "free-pro-team @ latest"%}
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
 ### Enterprise accounts
 
 *Enterprise owners* have ultimate power over the enterprise account and can take every action in the enterprise account. *Billing managers* can manage your enterprise account's billing settings. Members and outside collaborators of organizations owned by your enterprise account are automatically members of the enterprise account, although they have no access to the enterprise account itself or its settings. For more information, see "[Roles in an enterprise](/github/setting-up-and-managing-your-enterprise/roles-in-an-enterprise)."
@@ -36,4 +36,5 @@ Organization members can have *owner*{% if currentVersion == "free-pro-team@late
 
 ### Further reading
 
-- "[Types of {% data variables.product.prodname_dotcom %} accounts](/articles/types-of-github-accounts)"
+- " [Jenis akun {% data variable.product.prodname_dotcom%}] (/ Articles / types-of-github-accounts) "
+xxxxx</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
